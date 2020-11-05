@@ -1,0 +1,22 @@
+h1{
+    color:#FFF0F5;
+    text-align:center;
+    background:#00FFFF;
+}
+
+h2{
+    color:#F08080;
+    text-align:center;
+    background:#87CEEB;
+}
+
+h3{
+    color:#ADFF2F;
+}
+
+p{
+    color:#E0FFFF;
+}
+body{
+    background-image:url(../images/04.jpg);
+}
