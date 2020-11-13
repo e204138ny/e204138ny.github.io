@@ -1,0 +1,23 @@
+h1{
+    color:#00bfff;
+    text-align: center;
+    background:#4b0082; 
+}
+
+h2{
+    color:#7fff00 ;
+    text-align: center;
+    background:#00ffff; 
+}
+
+table{
+    background:#e0ffff; 
+}
+
+ol{
+    background-image: url(../images/07.jpg);
+}
+
+body{
+    background-image: url(../images/06.jpg);
+}
