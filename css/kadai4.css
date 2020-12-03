@@ -1,0 +1,27 @@
+h1.midasi{
+    color: blue;
+    text-align: center;
+    background-color:lightskyblue;
+}
+
+h1#rink{
+    color:aqua;
+    text-align: center;
+    background-color: coral
+}
+
+h2.a{
+    text-align: center;
+    color: orange;
+    background-color: mediumspringgreen
+}
+
+h2.b{
+    text-align: center;
+    color: lightcyan;
+    background-color: cadetblue
+}
+
+body{
+    background-image: url(../images/07.jpg);
+}
