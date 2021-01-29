@@ -1,0 +1,109 @@
+div.title{
+    width: 1000px;
+    height: 60px;
+    background-color: aqua;
+    text-align: center;
+    font-size: 40px;
+    font-family:"impact";
+    margin-bottom:20px;
+}
+div.syumi1{
+    width:250px;
+    height:80px;
+    background-color: lime;
+    font-size: 20px;
+    text-align: center;
+    font-family:"impact";
+    margin-bottom:10px;
+    margin-right:50px;
+}
+
+div.syumi2{
+    width:250px;
+    height:80px;
+    background-color: lime;
+    font-size: 20px;
+    text-align: center;
+    font-family:"impact";
+    margin-bottom:10px;
+    margin-right:50px;
+}
+
+div.syumi3{
+    width:250px;
+    height:80px;
+    background-color: lime;
+    font-size: 20px;
+    text-align: center;
+    font-family:"impact";
+    margin-right:50px;
+}
+
+div.gazou{
+    width: 700px;
+    height: 300px;
+    font-size: 50px;
+    background-color: salmon;
+}
+
+div.bunnsyou{
+    width: 700px;
+    height: 20px;
+    font-size: 15px;
+    background-color: honeydew;
+}
+div.gazou2{
+    width: 700px;
+    height: 300px;
+    font-size: 50px;
+    background-color: salmon;
+}
+
+div.bunnsyou2{
+    width: 700px;
+    height: 20px;
+    font-size: 15px;
+    background-color: honeydew;
+}
+div.gazou3{
+    width: 700px;
+    height: 300px;
+    font-size: 50px;
+}
+
+div.bunnsyou3{
+    width: 700px;
+    height: 20px;
+    font-size: 15px;
+    background-color: honeydew;
+}
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: blue;
+    font-size: 15px;
+    color: aqua;
+}
+
+div.syumi{
+    font-size: 0px;
+    width: 1000px;
+    margin-bottom:20px;
+}
+
+div.a{
+    display:inline-block;
+    vertical-align:top;
+}
+
+div.b{
+    display:inline-block;
+    vertical-align:top;
+}
+body{
+    background-image: url(../images/07.jpg);
+}
+div.wrap{
+width : 1000px;
+margin : 0px auto;
+}
